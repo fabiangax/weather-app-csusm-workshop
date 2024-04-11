@@ -1,0 +1,17 @@
+.card-inputs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    .form-group {
+        width: 40%;
+        margin-right: 5%;
+
+    }
+
+    .btn {
+        width: 10%;
+        height: 38px;
+        align-self: flex-end;
+    }
+}
